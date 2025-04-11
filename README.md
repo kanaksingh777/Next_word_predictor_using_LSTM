@@ -1,6 +1,4 @@
-Absolutely! Here's a cleaner, more natural-sounding `README.md` with fewer icons and a human-written tone — great for sharing on GitHub:
 
----
 
 # Next Word Predictor using LSTM
 
